@@ -1,4 +1,4 @@
-# Welcome to the profile of your friendly neighborhood hitch-hiker 👋
+# Welcome to the profile of your friendly neighborhood hitch-hiker!
 <p>
   <img src="https://img.shields.io/badge/Software%20Engineer-Frontend%20%7C%20Backend%20%7C%20Cloud-blue?style=for-the-badge" />
 </p>
@@ -63,7 +63,6 @@ I’m an active competitive programmer with notable achievements:
 - Ranked **Global 63** in CodeChef February Long Challenge 2021 (Div 1)
 - Admin, problem setter, tester, and editorialist for a grand-scale global coding contest [CDMN2021](https://www.codechef.com/CDMN2021) on CodeChef.
 
-
 ### 🎮 Hobbies & Interests
 When I’m not coding, I like to:
 - **Board Games**: Love a good game that mixes strategy with a bit of friendly competition.
@@ -71,7 +70,6 @@ When I’m not coding, I like to:
 - **Travel**: Exploring new places and collecting experiences along the way.
 - **Video Games**: Enjoy diving into worlds with challenging gameplay and rich stories.
 - **Movies & Pop Culture**: Keeping up with the latest, whether it’s an indie film or the newest blockbuster.
-
 
 ### 🌱 Ongoing Goals
 - Striving to reach **Grandmaster** level in competitive programming.
